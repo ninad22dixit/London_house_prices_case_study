@@ -32,4 +32,4 @@ This case utilizes learning from Units 1-4 of the Springboard Data Science progr
 5. handling dates and times (Data Types for Data Science, Module Four)
 6. function definition (Python Data Science Toolbox - Part One, Module One)
 7. default arguments, variable length, and scope (Python Data Science Toolbox - Part One, Module Two)
-8. lambda functions and error handling (Python Data Science Toolbox - Part One, Module Four
+8. lambda functions and error handling (Python Data Science Toolbox - Part One, Module Four)
